@@ -2,7 +2,6 @@
 import SimpleLightbox from "simplelightbox/dist/simple-lightbox.esm";
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
-
 const images = [
   {
     preview: 'https://cdn.pixabay.com/photo/2019/05/14/16/43/rchids-4202820__480.jpg',
