@@ -83,12 +83,3 @@ const lightbox = new SimpleLightbox('.gallery a', {
   captionsData: 'alt',
   captionDelay: 250,
 });
-
-
-
-lightbox.on('show.simplelightbox', function () {
-  console.log('Lightbox opened');
-});
-lightbox.on('close.simplelightbox', function () {
-  console.log('Lightbox closed');
-});
